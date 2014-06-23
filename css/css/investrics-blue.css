@@ -1,0 +1,65 @@
+.navbar .navbar-brand {
+  background: #0a85e9;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #0a85e9;
+}
+.dropdown-menu {
+  background-color: #0a85e9;
+}
+a {
+  color: #0a85e9;
+}
+.main-color {
+  color: #0a85e9;
+}
+.slides-navigation a:hover {
+  background: #0a85e9;
+}
+.slides-pagination a.current {
+  background: #0a85e9;
+}
+.header-center a:hover {
+  color: #0a85e9;
+}
+.totop:hover span > a.hover {
+  color: #0a85e9;
+}
+.left-icon .icon {
+  background: #0a85e9;
+}
+.styled div span {
+  background: #0a85e9;
+}
+footer.footer {
+  background: #0a85e9;
+}
+.post .post-meta .post-icon:hover {
+  background: #0a85e9;
+}
+.post .post-meta span a {
+  color: #0a85e9;
+}
+.post .read-more {
+  border: 1px solid #0a85e9;
+}
+.mejs-controls .mejs-time-rail .mejs-time-current {
+  background-color: #0a85e9;
+}
+.mejs-horizontal-volume-current {
+  background: #0a85e9;
+}
+.skill-bar ul li .bar {
+  background: #0a85e9;
+}
+.pagination .pag-prev a,
+.pagination .pag-next a {
+  background: #0a85e9;
+  border-color: #0a85e9;
+}
+.testimonial-list .testimonial-item a.current ~ .testi-link,
+.testimonial-list .testimonial-item a:hover ~ .testi-link {
+  background: rgba(10, 133, 233, 0.8);
+}
