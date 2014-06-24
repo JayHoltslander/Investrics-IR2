@@ -208,6 +208,7 @@ a {
     -o-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
+
 a:hover {
     text-decoration: none;
     color: #AAA;
