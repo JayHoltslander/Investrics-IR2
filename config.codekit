@@ -65,6 +65,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/css\/investrics-blue.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/css\/investrics-blue.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/lib\/animate.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -138,6 +147,26 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/css\/scheme\/investrics-blue.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/scheme\/investrics-blue.less",
+		"outputAbbreviatedPath": "\/css\/css\/investrics-blue.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
 		},
 	"\/css\/scheme\/light-blue.css": {
 		"fileType": 16,
@@ -444,6 +473,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/balraj-rakhra.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21892,
+		"inputAbbreviatedPath": "\/images\/balraj-rakhra.jpg",
+		"outputAbbreviatedPath": "\/images\/balraj-rakhra.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/balraj-rakhra.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11137,
+		"inputAbbreviatedPath": "\/images\/balraj-rakhra.png",
+		"outputAbbreviatedPath": "\/images\/balraj-rakhra.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/balraj-rakhra2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21892,
+		"inputAbbreviatedPath": "\/images\/balraj-rakhra2.jpg",
+		"outputAbbreviatedPath": "\/images\/balraj-rakhra2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/bg-about.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -517,6 +579,50 @@
 		"initialSize": 10574,
 		"inputAbbreviatedPath": "\/images\/blog-thumb.jpg",
 		"outputAbbreviatedPath": "\/images\/blog-thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/brenton-rusin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24635,
+		"inputAbbreviatedPath": "\/images\/brenton-rusin.jpg",
+		"outputAbbreviatedPath": "\/images\/brenton-rusin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/codecore-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3709,
+		"inputAbbreviatedPath": "\/images\/codecore-icon.png",
+		"outputAbbreviatedPath": "\/images\/codecore-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/codecore-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6963,
+		"inputAbbreviatedPath": "\/images\/codecore-logo.png",
+		"outputAbbreviatedPath": "\/images\/codecore-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/colt-philips.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36859,
+		"inputAbbreviatedPath": "\/images\/colt-philips.jpg",
+		"outputAbbreviatedPath": "\/images\/colt-philips.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -627,6 +733,72 @@
 		"initialSize": 285347,
 		"inputAbbreviatedPath": "\/images\/imac.png",
 		"outputAbbreviatedPath": "\/images\/imac.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/investrics-icon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4258,
+		"inputAbbreviatedPath": "\/images\/investrics-icon.jpg",
+		"outputAbbreviatedPath": "\/images\/investrics-icon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/investrics-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5217,
+		"inputAbbreviatedPath": "\/images\/investrics-icon.png",
+		"outputAbbreviatedPath": "\/images\/investrics-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/investrics-logo-large.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16028,
+		"inputAbbreviatedPath": "\/images\/investrics-logo-large.png",
+		"outputAbbreviatedPath": "\/images\/investrics-logo-large.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/investrics-logo-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11417,
+		"inputAbbreviatedPath": "\/images\/investrics-logo-small.png",
+		"outputAbbreviatedPath": "\/images\/investrics-logo-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/jr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15783,
+		"inputAbbreviatedPath": "\/images\/jr.jpg",
+		"outputAbbreviatedPath": "\/images\/jr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/jyoti-sahota.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10748,
+		"inputAbbreviatedPath": "\/images\/jyoti-sahota.jpg",
+		"outputAbbreviatedPath": "\/images\/jyoti-sahota.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -748,6 +920,28 @@
 		"initialSize": 532,
 		"inputAbbreviatedPath": "\/images\/quote-icon.png",
 		"outputAbbreviatedPath": "\/images\/quote-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/ryan-currie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22585,
+		"inputAbbreviatedPath": "\/images\/ryan-currie.jpg",
+		"outputAbbreviatedPath": "\/images\/ryan-currie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/samson-bailey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31177,
+		"inputAbbreviatedPath": "\/images\/samson-bailey.jpg",
+		"outputAbbreviatedPath": "\/images\/samson-bailey.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1199,6 +1393,17 @@
 		"initialSize": 481,
 		"inputAbbreviatedPath": "\/images\/volume.png",
 		"outputAbbreviatedPath": "\/images\/volume.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/yushadha-bogoda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30944,
+		"inputAbbreviatedPath": "\/images\/yushadha-bogoda.jpg",
+		"outputAbbreviatedPath": "\/images\/yushadha-bogoda.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
